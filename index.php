@@ -97,57 +97,6 @@
     </div>
     </section>
 
-    
-<!-- <li
-    class="list-group-item d-flex d-flex justify-content-between align-items-center border-start-0 border-top-0 border-end-0 border-bottom rounded-0 mb-2">
-    <div class="d-flex align-items-center">
-    <input class="form-check-input me-2" type="checkbox" value="" aria-label="..." checked />
-    <s>Dapibus ac facilisis in</s>
-    </div>
-    <a href="#!" data-mdb-tooltip-init title="Remove item">
-    <i class="fas fa-times text-primary"></i>
-    </a>
-</li>
-<li
-    class="list-group-item d-flex d-flex justify-content-between align-items-center border-start-0 border-top-0 border-end-0 border-bottom rounded-0 mb-2">
-    <div class="d-flex align-items-center">
-    <input class="form-check-input me-2" type="checkbox" value="" aria-label="..." />
-    Morbi leo risus
-    </div>
-    <a href="#!" data-mdb-tooltip-init title="Remove item">
-    <i class="fas fa-times text-primary"></i>
-    </a>
-</li>
-<li
-    class="list-group-item d-flex d-flex justify-content-between align-items-center border-start-0 border-top-0 border-end-0 border-bottom rounded-0 mb-2">
-    <div class="d-flex align-items-center">
-    <input class="form-check-input me-2" type="checkbox" value="" aria-label="..." />
-    Porta ac consectetur ac
-    </div>
-    <a href="#!" data-mdb-tooltip-init title="Remove item">
-    <i class="fas fa-times text-primary"></i>
-    </a>
-</li>
-<li
-    class="list-group-item d-flex d-flex justify-content-between align-items-center border-start-0 border-top-0 border-end-0 border-bottom rounded-0 mb-0">
-    <div class="d-flex align-items-center">
-    <input class="form-check-input me-2" type="checkbox" value="" aria-label="..." checked />
-    Vestibulum at eros
-    </div>
-    <a href="#!" data-mdb-tooltip-init title="Remove item">
-    <i class="fas fa-times text-primary"></i>
-    </a>
-</li>
-<li
-    class="list-group-item d-flex justify-content-between align-items-center border-start-0 border-top-0 border-end-0 border-bottom rounded-0 mb-2">
-    <div class="d-flex align-items-center">
-    <input class="form-check-input me-2" type="checkbox" value="" aria-label="..." />
-    Morbi leo risus
-    </div>
-    <a href="#!" data-mdb-tooltip-init title="Remove item">
-    <i class="fas fa-times text-primary"></i>
-    </a>
-</li> -->
 </body>
 
 <!-- MDB -->
